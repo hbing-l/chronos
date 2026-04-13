@@ -1,7 +1,7 @@
 # Chronos
 
 <p align="center">
-  <img src="./teaser.png" width="80%">
+  <img src="./teaser.png" width="60%">
 </p>
 
 <p align="center">
